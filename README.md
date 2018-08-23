@@ -20,6 +20,8 @@ AmoebaNet-B | (N=6, F=190) | 331x331⁵ | 84.0M⁵ | 22.3B⁵ |   |   | 82.30�
 Dual-Path-Net-131 |   | 320x320⁵ | 79.5M⁵ | 32.0B⁵ |   |   | 81.50⁵ | 95.80⁵ | [Link](https://arxiv.org/abs/1707.01629) | - | [Link](https://github.com/titu1994/Keras-DualPathNetworks) | [Link](https://github.com/Queequeg92/DualPathNet) | [Link](https://github.com/cypw/DPNs) | [Link](https://github.com/cypw/DPNs)
 PolyNet |   | 331x331⁵ | 92M⁵ | 34.7B⁵ |   |   | 81.30⁵ | 95.80⁵ | [Link](https://arxiv.org/abs/1611.05725) | - | - | [Link](https://github.com/Cadene/pretrained-models.pytorch/blob/master/pretrainedmodels/models/polynet.py) | [Link](https://github.com/CUHK-MMLAB/polynet) | -
 ResNeXt-101 | (64x4d) | 320x320⁵ | 83.6M⁵ | 31.5B⁵ |   |   | 80.90⁵ | 95.60⁵ | [Link](https://arxiv.org/abs/1611.05431) | [Link](https://github.com/taki0112/ResNeXt-Tensorflow) | [Link](https://github.com/titu1994/Keras-ResNeXt) | [Link](https://github.com/prlz77/ResNeXt.pytorch) | [Link](https://github.com/cypw/ResNeXt-1) | [Link](https://github.com/facebookresearch/ResNeXt)
+PyramidNet-200 | α=300 | 320x320⁷ | 116.4M⁷ |   |   |   | 80.80⁷ | 95.30⁷ | [Link](https://arxiv.org/abs/1610.02915.pdf) | [Link](https://github.com/yselivonchyk/Tensorflow_DeepPyramidalResidualNet) | - | [Link](https://github.com/dyhan0920/PyramidNet-PyTorch) | [Link](https://github.com/jhkim89/PyramidNet-caffe) | [Link](https://github.com/jhkim89/PyramidNet)
+PyramidNet-200 | α=300 | 320x320⁷ | 62.1M⁷ |   |   |   | 80.50⁷ | 95.20⁷ | [Link](https://arxiv.org/abs/1610.02915.pdf) | [Link](https://github.com/yselivonchyk/Tensorflow_DeepPyramidalResidualNet) | - | [Link](https://github.com/dyhan0920/PyramidNet-PyTorch) | [Link](https://github.com/jhkim89/PyramidNet-caffe) | [Link](https://github.com/jhkim89/PyramidNet)
 Inception-ResNet-v2 |   | 299x299¹ | 55.8M² |   | 11.75G⁴ | 572² | 80.40¹ | 95.30¹ | [Link](http://arxiv.org/abs/1602.07261) | [Link](https://github.com/tensorflow/models/tree/master/research/slim) | [Link](https://keras.io/applications/) | - | [Link](https://github.com/twtygqyy/Inception-resnet-v2) | -
 Inception-ResNet-v2+SE |   | 299X299⁴ |   |   | 11.76G⁴ |   | 80.20⁴ | 95.21⁴ | [Link](https://arxiv.org/pdf/1709.01507.pdf) | [Link](https://github.com/kobiso/SENet-tensorflow-slim) | - | [Link](https://github.com/moskomule/senet.pytorch) | [Link](https://github.com/hujie-frank/SENet) | -
 Inception V4 |   | 299x299¹ | 46M¹ |   |   |   | 80.20¹ | 95.20¹ | [Link](http://arxiv.org/abs/1602.07261) | [Link](https://github.com/tensorflow/models/tree/master/research/slim) | [Link](https://github.com/kentsommer/keras-inceptionV4) | [Link](https://github.com/pytorch/vision/tree/master/torchvision) | - | -
@@ -85,10 +87,11 @@ MobileNet_v1 | α=0.25 | 128x128¹ |   |   |   |   | 41.50¹ | 66.30¹ | [Li
 Superscript numbers on each value indicate the reference number of each value from.
 1. [TF-Slim](https://github.com/tensorflow/models/tree/master/research/slim)
 2. [Keras: Applications](https://keras.io/applications/)
-3. [CBAM: Convolutional Block Attention Module](https://arxiv.org/pdf/1807.06521.pdf)
-4. [Squeeze-and-Excitation Networks](https://arxiv.org/pdf/1709.01507.pdf)
-5. [Progressive Neural Architecture Search](https://arxiv.org/pdf/1712.00559.pdf)
-6. [Residual Attention Network for Image Classification](https://arxiv.org/pdf/1704.06904.pdf)
+3. [CBAM: Convolutional Block Attention Module](https://arxiv.org/abs/1807.06521.pdf)
+4. [Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507.pdf)
+5. [Progressive Neural Architecture Search](https://arxiv.org/abs/1712.00559.pdf)
+6. [Residual Attention Network for Image Classification](https://arxiv.org/abs/1704.06904.pdf)
+7. [Deep Pyramidal Residual Networks](https://arxiv.org/abs/1610.02915.pdf)
 
 ## Related Resources
 Check the other good resources about CNN models
