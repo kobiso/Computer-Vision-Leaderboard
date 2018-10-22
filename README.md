@@ -9,7 +9,7 @@ The goal of this repository is:
 ## Comparison Table
 CNN model comparison table on the [ImageNet](http://www.image-net.org/) classification results, reference paper and implementations.
 
-Model | Detail | Inpus size | Parameters | Mult-Adds | FLOPS | Depth | Top-1 Acc | Top-5 Acc | Paper | TF | Keras | Pytorch | Caffe | Torch | MXNet
+Model | Detail | Input size | Parameters | Mult-Adds | FLOPS | Depth | Top-1 Acc | Top-5 Acc | Paper | TF | Keras | Pytorch | Caffe | Torch | MXNet
 -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | --
 AmoebaNet-B | (N=6, F=228) | 331x331⁵ | 155.3M⁵ | 41.1B⁵ |   |   | 83.10⁵ | 96.30⁵ | [Paper](https://arxiv.org/abs/1802.01548) | [TF](https://github.com/tensorflow/tpu/tree/master/models/official/amoeba_net) | - | - | - | - | -
 PNASNet-5_Large_331 | (N=4, F=216) | 331x331⁵ | 86.1M⁵ | 25.0B⁵ |   |   | 82.90⁵ | 96.20⁵ | [Paper](https://arxiv.org/abs/1712.00559) | [TF](https://github.com/tensorflow/models/tree/master/research/slim) | - | - | - | - | -
