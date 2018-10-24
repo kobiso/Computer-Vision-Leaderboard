@@ -12,7 +12,7 @@ The goal of this page is:
 - **FLOPS**: The floating point operations
 
 ### Value References
-Numbers in the '*reference*' column indicate the reference webpages and papers for each model's value.
+Numbers in the '*Reference*' column indicate the reference webpages and papers for each model's values.
 1. [TF-Slim](https://github.com/tensorflow/models/tree/master/research/slim)
 2. [Keras: Applications](https://keras.io/applications/)
 3. [CBAM: Convolutional Block Attention Module](https://arxiv.org/abs/1807.06521.pdf)
@@ -25,9 +25,9 @@ Numbers in the '*reference*' column indicate the reference webpages and papers f
 
 ## Contribution
 If you want
-1. To add any value from your own model and paper on the leaderboard
-2. To revise any mistake in the leaderboard
-2. To update any value on the existing model
+- To add any value from your own model and paper on the leaderboard
+- To revise any mistake in the leaderboard
+- To update any value on the existing model
 
 please leave your suggestion in [the issue page of this repository](https://github.com/kobiso/CNN-models-comparison/issues).
 
