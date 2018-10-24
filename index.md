@@ -4,7 +4,7 @@ The goal of this page is:
 - To see the comparison of famous CNN models at a glance (performance, speed, size, etc.)
 - To access their research papers and implementations on different frameworks
 
-If you want to keep following this page, please star and watch [this repository.](https://github.com/kobiso/CNN-models-comparison)
+If you want to keep following this page, please star and watch [this repository.](https://github.com/kobiso/Computer-Vision-Leaderboard)
 
 ## Leaderboard
 
@@ -31,7 +31,7 @@ If you want
 - To revise any mistake in the leaderboard
 - To update any value on the existing model
 
-please leave your suggestion in [the issue page of this repository](https://github.com/kobiso/CNN-models-comparison/issues).
+please leave your suggestion in [the issue page of this repository](https://github.com/kobiso/Computer-Vision-Leaderboard/issues).
 
 ## Author
 Byung Soo Ko / kobiso62@gmail.com
