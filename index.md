@@ -1,11 +1,10 @@
-# CNN-models-comparison
-The goal of this repository is:
-- To keep on track of **state-of-the-art (SoTA)** and new CNN architectures
-- To see the comparison of famous CNN models at a glance (accuracy, parameters, speed ...)
+# ImageNet Classification Leaderboard
+The goal of this page is:
+- To keep on track of **state-of-the-art (SOTA)** on [ImageNet](http://www.image-net.org/) Classification and new CNN architectures
+- To see the comparison of famous CNN models at a glance (performance, speed, size, etc.)
 - To access their research papers and implementations on different frameworks
 
-## Comparison Table
-CNN model comparison table on the [ImageNet](http://www.image-net.org/) classification results, reference paper and implementations.
+## Leaderboard
 
 <iframe height="2200px" width="100%" style="border:none;" src="https://view-awesome-table.com/-LPQq6tbWJsI-7JR2EFC/view"></iframe>
 
@@ -13,7 +12,7 @@ CNN model comparison table on the [ImageNet](http://www.image-net.org/) classifi
 - **FLOPS**: The floating point operations
 
 ### Value References
-Superscript numbers on each value indicate the reference number of each value from.
+Numbers in the '*reference*' column indicate the reference webpages and papers for each model's value.
 1. [TF-Slim](https://github.com/tensorflow/models/tree/master/research/slim)
 2. [Keras: Applications](https://keras.io/applications/)
 3. [CBAM: Convolutional Block Attention Module](https://arxiv.org/abs/1807.06521.pdf)
@@ -24,14 +23,15 @@ Superscript numbers on each value indicate the reference number of each value fr
 8. [Big-Little Net: An Efficient Multi-Scale Feature Representation for Visual and Speech Recognition](https://arxiv.org/abs/1807.03848)
 9. [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/abs/1807.11626)
 
-## Related Resources
-Check the other good resources about CNN models
-- [Caffe-model](https://github.com/soeaver/caffe-model)
-- [TensorNets](https://github.com/taehoonlee/tensornets)
-- [DeepDetect : Open Source Deep Learning Server & API](https://github.com/jolibrain/deepdetect#deepdetect--open-source-deep-learning-server--api)
-- [Pretrained models for Pytorch](https://github.com/Cadene/pretrained-models.pytorch)
-- [Netscope CNN Analyzer](https://dgschwend.github.io/netscope/quickstart.html)
-- [Memory consumption and FLOP count](https://github.com/albanie/convnet-burden)
+## Contribution
+If you want
+1. To add any value from your own model and paper on the leaderboard
+2. To revise any mistake in the leaderboard
+2. To update any value on the existing model
+
+please leave your suggestion in [the issue page of this repository](https://github.com/kobiso/CNN-models-comparison/issues).
+
+To keep on track of this page, please star and watch [this repository.](https://github.com/kobiso/CNN-models-comparison)
 
 ## Author
 Byung Soo Ko / kobiso62@gmail.com
