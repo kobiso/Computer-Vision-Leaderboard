@@ -8,7 +8,7 @@ If you want to keep following this page, please star and watch [this repository.
 
 ## Leaderboard
 
-<iframe height="2200px" width="100%" style="border:none;" src="https://view-awesome-table.com/-LPQq6tbWJsI-7JR2EFC/view"></iframe>
+<iframe height="2600px" width="100%" style="border:none;" src="https://view-awesome-table.com/-LPQq6tbWJsI-7JR2EFC/view"></iframe>
 
 - **Mult-Adds**: The number of multiply-add operations
 - **FLOPS**: The floating point operations
@@ -24,6 +24,9 @@ Numbers in the '*Reference*' column indicate the reference webpages and papers f
 7. [Deep Pyramidal Residual Networks](https://arxiv.org/abs/1610.02915.pdf)
 8. [Big-Little Net: An Efficient Multi-Scale Feature Representation for Visual and Speech Recognition](https://arxiv.org/abs/1807.03848)
 9. [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/abs/1807.11626)
+10. [A^2-Nets: Double Attention Networks](https://arxiv.org/abs/1810.11579v1)
+11. [GLUON-CV](https://gluon-cv.mxnet.io/model_zoo/classification.html#id184)
+12. [ChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions](https://arxiv.org/pdf/1809.01330v1.pdf)
 
 ## Contribution
 If you want
