@@ -16,6 +16,7 @@ From now, leaderboard is provided in the below link for better accessibility and
 ### ImageNet Classification Leaderboard
 - **181022.** Update [MnasNet](https://arxiv.org/abs/1807.11626) and [Big-Little Net](https://arxiv.org/abs/1807.03848)
 - **181024.** Create the [ImageNet Classification Leaderboard](https://kobiso.github.io/Computer-Vision-Leaderboard/) webpage for better accessibility and usability.
+- **181126.** Update [A^2-Nets](https://arxiv.org/abs/1810.11579v1), [ResNet variants from GLUON-CV](https://gluon-cv.mxnet.io/model_zoo/classification.html#id184), and [ChannelNets](https://arxiv.org/pdf/1809.01330v1.pdf)
 
 
 ## Related Resources
