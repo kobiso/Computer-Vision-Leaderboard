@@ -25,6 +25,7 @@ Check the other good resources about CNN models
 - [TensorNets](https://github.com/taehoonlee/tensornets)
 - [DeepDetect : Open Source Deep Learning Server & API](https://github.com/jolibrain/deepdetect#deepdetect--open-source-deep-learning-server--api)
 - [Pretrained models for Pytorch](https://github.com/Cadene/pretrained-models.pytorch)
+- [Pretrained models for Chainer & Gluon](https://github.com/osmr/imgclsmob)
 - [Netscope CNN Analyzer](https://dgschwend.github.io/netscope/quickstart.html)
 - [Memory consumption and FLOP count](https://github.com/albanie/convnet-burden)
 
