@@ -1,3 +1,5 @@
+# ImageNet Classification Leaderboard
+
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
 <div style="text-align:right; width:100%; padding:0;">
@@ -10,7 +12,6 @@
 
 </div>
 
-# ImageNet Classification Leaderboard
 The goal of this page is:
 - To keep on track of **state-of-the-art (SOTA)** on [ImageNet](http://www.image-net.org/) Classification and new CNN architectures
 - To see the comparison of famous CNN models at a glance (performance, speed, size, etc.)
