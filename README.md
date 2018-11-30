@@ -7,7 +7,7 @@ The goal of this repository is:
 ## Leaderboards
 From now, leaderboard is provided in the below link for better accessibility and usability.
 
-- [ImageNet Classification Leaderboard](https://kobiso.github.io/Computer-Vision-Leaderboard/imagenet)
+- [**ImageNet Classification Leaderboard**](https://kobiso.github.io/Computer-Vision-Leaderboard/imagenet)
 
 - To do
   - Image retrieval leaderboard
