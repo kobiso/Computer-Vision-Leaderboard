@@ -25,7 +25,7 @@ Numbers in the '*Reference*' column indicate the reference webpages and papers f
 8. [Big-Little Net: An Efficient Multi-Scale Feature Representation for Visual and Speech Recognition](https://arxiv.org/abs/1807.03848)
 9. [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/abs/1807.11626)
 10. [A^2-Nets: Double Attention Networks](https://arxiv.org/abs/1810.11579v1)
-11. [GLUON-CV](https://gluon-cv.mxnet.io/model_zoo/classification.html#id184)
+11. [GLUON-CV](https://gluon-cv.mxnet.io/model_zoo/classification.html)
 12. [ChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions](https://arxiv.org/pdf/1809.01330v1.pdf)
 
 ## Contribution
