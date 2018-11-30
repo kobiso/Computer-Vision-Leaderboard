@@ -21,7 +21,8 @@ If you want to keep following this page, please star and watch [this repository.
 
 ## Leaderboard
 
-<iframe height="4000px" width="100%" style="border:none;" src="https://view-awesome-table.com/-LPQq6tbWJsI-7JR2EFC/view"></iframe>
+<div data-type="AwesomeTableView" data-viewID="-LSZRVWhX7iyy6MlqhpX"></div>
+<script src="https://awesome-table.com/AwesomeTableInclude.js"></script>
 
 - **Mult-Adds**: The number of multiply-add operations
 - **FLOPS**: The floating point operations
