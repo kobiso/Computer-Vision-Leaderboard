@@ -21,7 +21,7 @@ If you want to keep following this page, please star and watch [this repository.
 
 ## Leaderboard
 
-<iframe height="2600px" width="100%" style="border:none;" src="https://view-awesome-table.com/-LPQq6tbWJsI-7JR2EFC/view"></iframe>
+<iframe height="4000px" width="100%" style="border:none;" src="https://view-awesome-table.com/-LPQq6tbWJsI-7JR2EFC/view"></iframe>
 
 - **Mult-Adds**: The number of multiply-add operations
 - **FLOPS**: The floating point operations
@@ -40,6 +40,8 @@ Numbers in the '*Reference*' column indicate the reference webpages and papers f
 10. [A^2-Nets: Double Attention Networks](https://arxiv.org/abs/1810.11579v1)
 11. [GLUON-CV](https://gluon-cv.mxnet.io/model_zoo/classification.html)
 12. [ChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions](https://arxiv.org/pdf/1809.01330v1.pdf)
+13. [FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](https://papers.nips.cc/paper/7356-fishnet-a-versatile-backbone-for-image-region-and-pixel-level-prediction)
+14. [osmr/imgclsmob repo](https://github.com/osmr/imgclsmob)
 
 ## Contribution
 If you want
