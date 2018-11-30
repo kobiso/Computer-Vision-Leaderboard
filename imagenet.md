@@ -1,8 +1,14 @@
-<!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-<!-- Place this tag where you want the button to render. -->
+<div style="text-align:right; width:100%; padding:0;">
+
+<a class="github-button" href="https://github.com/kobiso" data-size="large" data-show-count="false" aria-label="Follow @kobiso on GitHub">Follow</a>
+
+<a class="github-button" href="https://github.com/kobiso/Computer-Vision-Leaderboard/subscription" data-icon="octicon-eye" data-size="large" data-show-count="false" aria-label="Watch kobiso/Computer-Vision-Leaderboard on GitHub">Watch</a>
+
 <a class="github-button" href="https://github.com/kobiso/Computer-Vision-Leaderboard" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star kobiso/Computer-Vision-Leaderboard on GitHub">Star</a>
+
+</div>
 
 # ImageNet Classification Leaderboard
 The goal of this page is:
