@@ -1,3 +1,9 @@
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/kobiso/Computer-Vision-Leaderboard" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star kobiso/Computer-Vision-Leaderboard on GitHub">Star</a>
+
 # ImageNet Classification Leaderboard
 The goal of this page is:
 - To keep on track of **state-of-the-art (SOTA)** on [ImageNet](http://www.image-net.org/) Classification and new CNN architectures
