@@ -8,16 +8,28 @@ The goal of this repository is:
 From now, leaderboard is provided in the below link for better accessibility and usability.
 
 - [**ImageNet Classification Leaderboard**](https://kobiso.github.io/Computer-Vision-Leaderboard/imagenet)
+- [**Stanford Online Products Retrieval Leaderboard**](https://kobiso.github.io/Computer-Vision-Leaderboard/sop)
+- [**CARS196 Retrieval Leaderboard**](https://kobiso.github.io/Computer-Vision-Leaderboard/cars)
+- [**CUB-200-2011 Retrieval Leaderboard**](https://kobiso.github.io/Computer-Vision-Leaderboard/cub)
 
 - To do
-  - Image retrieval leaderboard
+  - In-Shop Clothes Retrieval Leaderboard
 
 ## Updates
 ### ImageNet Classification Leaderboard
 - **181022.** Update [MnasNet](https://arxiv.org/abs/1807.11626) and [Big-Little Net](https://arxiv.org/abs/1807.03848)
-- **181024.** Create the [ImageNet Classification Leaderboard](https://kobiso.github.io/Computer-Vision-Leaderboard/) webpage for better accessibility and usability.
+- **181024.** Create the [ImageNet Classification Leaderboard](https://kobiso.github.io/Computer-Vision-Leaderboard/imagenet) webpage for better accessibility and usability.
 - **181126.** Update [A^2-Nets](https://arxiv.org/abs/1810.11579v1), [ResNet variants from GLUON-CV](https://gluon-cv.mxnet.io/model_zoo/classification.html#id184), and [ChannelNets](https://arxiv.org/pdf/1809.01330v1.pdf)
 - **181130.** Update [FishNet](https://papers.nips.cc/paper/7356-fishnet-a-versatile-backbone-for-image-region-and-pixel-level-prediction.pdf) and [osmr/imgclsmob repo](https://github.com/osmr/imgclsmob)
+
+### Stanford Online Products Retrieval Leaderboard
+- **181222.** Create the [Stanford Online Products Retrieval Leaderboard](https://kobiso.github.io/Computer-Vision-Leaderboard/sop)
+
+### CARS196 Retrieval Leaderboard
+- **181222.** Create the [CARS196 Retrieval Leaderboard](https://kobiso.github.io/Computer-Vision-Leaderboard/cars)
+
+### CUB-200-2011 Retrieval Leaderboard
+- **181222.** Create the [CUB-200-2011 Retrieval Leaderboard](https://kobiso.github.io/Computer-Vision-Leaderboard/cub)
 
 
 ## Related Resources
