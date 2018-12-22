@@ -18,6 +18,7 @@ The goal of this page is:
 - To access their research papers and implementations on different frameworks
 
 If you want to keep following this page, please star and watch [this repository.](https://github.com/kobiso/Computer-Vision-Leaderboard)
+- Leaderboard family: [**ImageNet Classification**](https://kobiso.github.io/Computer-Vision-Leaderboard/imagenet), [**SOP Retrieval**](https://kobiso.github.io/Computer-Vision-Leaderboard/sop), [**CARS196 Retrieval**](https://kobiso.github.io/Computer-Vision-Leaderboard/cars), [**CUB200 Retrieval**](https://kobiso.github.io/Computer-Vision-Leaderboard/cub)
 
 ## Leaderboard
 
