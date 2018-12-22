@@ -13,7 +13,7 @@
 </div>
 
 The goal of this page is:
-- To keep on track of **state-of-the-art (SOTA)** on [Stanford Online Products](http://cvgl.stanford.edu/projects/lifted_struct/) Retrieval and new CNN architectures
+- To keep on track of **state-of-the-art (SOTA)** on [Stanford Online Products](http://cvgl.stanford.edu/projects/lifted_struct/) Retrieval and image retrieval models
 - To see the comparison of famous image retrieval models at a glance
 - To access their research papers and implementations on different frameworks
 
