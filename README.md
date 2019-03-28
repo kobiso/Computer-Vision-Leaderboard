@@ -11,9 +11,7 @@ From now, leaderboard is provided in the below link for better accessibility and
 - [**Stanford Online Products Retrieval Leaderboard**](https://kobiso.github.io/Computer-Vision-Leaderboard/sop)
 - [**CARS196 Retrieval Leaderboard**](https://kobiso.github.io/Computer-Vision-Leaderboard/cars)
 - [**CUB-200-2011 Retrieval Leaderboard**](https://kobiso.github.io/Computer-Vision-Leaderboard/cub)
-
-- To do
-  - In-Shop Clothes Retrieval Leaderboard
+- [**In-shop Clothes Retrieval Leaderboard**](https://kobiso.github.io/Computer-Vision-Leaderboard/in-shop)
 
 ## Updates
 ### ImageNet Classification Leaderboard
@@ -24,12 +22,18 @@ From now, leaderboard is provided in the below link for better accessibility and
 
 ### Stanford Online Products Retrieval Leaderboard
 - **181222.** Create the [Stanford Online Products Retrieval Leaderboard](https://kobiso.github.io/Computer-Vision-Leaderboard/sop)
+- **190326.** Update [CGD](https://arxiv.org/abs/1903.10663) paper
 
 ### CARS196 Retrieval Leaderboard
 - **181222.** Create the [CARS196 Retrieval Leaderboard](https://kobiso.github.io/Computer-Vision-Leaderboard/cars)
+- **190326.** Update [CGD](https://arxiv.org/abs/1903.10663) paper
 
 ### CUB-200-2011 Retrieval Leaderboard
 - **181222.** Create the [CUB-200-2011 Retrieval Leaderboard](https://kobiso.github.io/Computer-Vision-Leaderboard/cub)
+- **190326.** Update [CGD](https://arxiv.org/abs/1903.10663) paper
+
+### In-shop Clothes Retrieval Leaderboard
+- **190326.** Create the [In-shop Clothes Retrieval Leaderboard](https://kobiso.github.io/Computer-Vision-Leaderboard/in-shop)
 
 
 ## Related Resources
