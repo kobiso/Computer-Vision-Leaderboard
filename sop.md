@@ -33,6 +33,7 @@ Numbers in the '*Reference*' column indicate the reference webpages and papers f
 4. [Generalization in Metric Learning: Should the Embedding Layer be the Embedding Layer](https://arxiv.org/abs/1803.03310)
 5. [Heated-Up Softmax Embedding](https://arxiv.org/abs/1809.04157)
 6. [Combination of Multiple Global Descriptors for Image Retrieval](https://arxiv.org/abs/1903.10663)
+7. [Hardness-Aware Deep Metric Learning](http://arxiv.org/abs/1903.05503)
 
 ## Contribution
 If you want
