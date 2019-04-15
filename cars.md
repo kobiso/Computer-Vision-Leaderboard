@@ -30,6 +30,7 @@ Numbers in the '*Reference*' column indicate the reference webpages and papers f
 1. [Making Classification Competitive for Deep Metric Learning](https://arxiv.org/abs/1811.12649)
 2. [Batch Feature Erasing for Person Re-identification and Beyond](https://arxiv.org/abs/1811.07130)
 3. [Combination of Multiple Global Descriptors for Image Retrieval](https://arxiv.org/abs/1903.10663)
+4. [Hardness-Aware Deep Metric Learning](http://arxiv.org/abs/1903.05503)
 
 ## Contribution
 If you want
