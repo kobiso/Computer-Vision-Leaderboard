@@ -31,6 +31,7 @@ Numbers in the '*Reference*' column indicate the reference webpages and papers f
 2. [Batch Feature Erasing for Person Re-identification and Beyond](https://arxiv.org/abs/1811.07130)
 3. [Heated-Up Softmax Embedding](https://arxiv.org/abs/1809.04157)
 4. [Combination of Multiple Global Descriptors for Image Retrieval](https://arxiv.org/abs/1903.10663)
+5. [Improved Embeddings with Easy Positive Triplet Mining](http://arxiv.org/abs/1904.04370)
 
 ## Contribution
 If you want
