@@ -5,7 +5,7 @@ The goal of this repository is:
 - To access their research papers and implementations on different frameworks
 
 ## Leaderboards
-From now, leaderboard is provided in the below link for better accessibility and usability.
+Leaderboards are provided in the below link for better accessibility and usability.
 
 - [**ImageNet Classification Leaderboard**](https://kobiso.github.io/Computer-Vision-Leaderboard/imagenet)
 - [**Stanford Online Products Retrieval Leaderboard**](https://kobiso.github.io/Computer-Vision-Leaderboard/sop)
@@ -24,17 +24,23 @@ From now, leaderboard is provided in the below link for better accessibility and
 ### Stanford Online Products Retrieval Leaderboard
 - **181222.** Create the [Stanford Online Products Retrieval Leaderboard](https://kobiso.github.io/Computer-Vision-Leaderboard/sop)
 - **190326.** Update [CGD](https://arxiv.org/abs/1903.10663) paper
+- **190415.** Update [HDML](http://arxiv.org/abs/1903.05503) and [EPSHN](http://arxiv.org/abs/1904.04370) paper
+
 
 ### CARS196 Retrieval Leaderboard
 - **181222.** Create the [CARS196 Retrieval Leaderboard](https://kobiso.github.io/Computer-Vision-Leaderboard/cars)
 - **190326.** Update [CGD](https://arxiv.org/abs/1903.10663) paper
+- **190415.** Update [HDML](http://arxiv.org/abs/1903.05503) and [EPSHN](http://arxiv.org/abs/1904.04370) paper
 
 ### CUB-200-2011 Retrieval Leaderboard
 - **181222.** Create the [CUB-200-2011 Retrieval Leaderboard](https://kobiso.github.io/Computer-Vision-Leaderboard/cub)
 - **190326.** Update [CGD](https://arxiv.org/abs/1903.10663) paper
+- **190415.** Update [HDML](http://arxiv.org/abs/1903.05503) and [EPSHN](http://arxiv.org/abs/1904.04370) paper
 
 ### In-shop Clothes Retrieval Leaderboard
 - **190326.** Create the [In-shop Clothes Retrieval Leaderboard](https://kobiso.github.io/Computer-Vision-Leaderboard/in-shop)
+- **190326.** Update [CGD](https://arxiv.org/abs/1903.10663) paper
+- **190415.** Update [HDML](http://arxiv.org/abs/1903.05503) and [EPSHN](http://arxiv.org/abs/1904.04370) paper
 
 
 ## Related Resources
