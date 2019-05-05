@@ -45,6 +45,9 @@ Numbers in the '*Reference*' column indicate the reference webpages and papers f
 13. [FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](https://papers.nips.cc/paper/7356-fishnet-a-versatile-backbone-for-image-region-and-pixel-level-prediction)
 14. [osmr/imgclsmob repo](https://github.com/osmr/imgclsmob)
 15. [Selective Kernel Networks](https://arxiv.org/abs/1903.06586)
+16. [Exploring Randomly Wired Neural Networks for Image Recognition](https://arxiv.org/abs/1904.01569)
+17. [Res2Net: A New Multi-scale Backbone Architecture](https://arxiv.org/abs/1904.01169)
+18. [MultiGrain: a unified image embedding for classes and instances](https://arxiv.org/abs/1902.05509)
 
 ## Contribution
 If you want
