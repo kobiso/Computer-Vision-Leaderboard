@@ -30,24 +30,9 @@ If you want to keep following this page, please star and watch [this repository.
 
 ### Value References
 Numbers in the '*Reference*' column indicate the reference webpages and papers for each model's values.
-1. [TF-Slim](https://github.com/tensorflow/models/tree/master/research/slim)
-2. [Keras: Applications](https://keras.io/applications/)
-3. [CBAM: Convolutional Block Attention Module](https://arxiv.org/abs/1807.06521.pdf)
-4. [Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507.pdf)
-5. [Progressive Neural Architecture Search](https://arxiv.org/abs/1712.00559.pdf)
-6. [Residual Attention Network for Image Classification](https://arxiv.org/abs/1704.06904.pdf)
-7. [Deep Pyramidal Residual Networks](https://arxiv.org/abs/1610.02915.pdf)
-8. [Big-Little Net: An Efficient Multi-Scale Feature Representation for Visual and Speech Recognition](https://arxiv.org/abs/1807.03848)
-9. [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/abs/1807.11626)
-10. [A^2-Nets: Double Attention Networks](https://arxiv.org/abs/1810.11579v1)
-11. [GLUON-CV](https://gluon-cv.mxnet.io/model_zoo/classification.html)
-12. [ChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions](https://arxiv.org/pdf/1809.01330v1.pdf)
-13. [FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](https://papers.nips.cc/paper/7356-fishnet-a-versatile-backbone-for-image-region-and-pixel-level-prediction)
-14. [osmr/imgclsmob repo](https://github.com/osmr/imgclsmob)
-15. [Selective Kernel Networks](https://arxiv.org/abs/1903.06586)
-16. [Exploring Randomly Wired Neural Networks for Image Recognition](https://arxiv.org/abs/1904.01569)
-17. [Res2Net: A New Multi-scale Backbone Architecture](https://arxiv.org/abs/1904.01169)
-18. [MultiGrain: a unified image embedding for classes and instances](https://arxiv.org/abs/1902.05509)
+
+<div data-type="AwesomeTableView" data-viewID="-Lfd6hDWTW4eqqq1LHBr"></div>
+<script src="https://awesome-table.com/AwesomeTableInclude.js"></script>
 
 ## Contribution
 If you want
