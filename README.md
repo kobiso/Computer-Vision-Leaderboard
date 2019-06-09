@@ -22,6 +22,7 @@ Leaderboards are provided in the below link for better accessibility and usabili
 - **190326.** Update [SKNet](https://arxiv.org/abs/1903.06586) paper
 - **190505.** Update [RandWire-WS](https://arxiv.org/abs/1904.01569), [Res2Net](https://arxiv.org/abs/1904.01169), and [MultiGrain](https://arxiv.org/abs/1902.05509) papers
 - **190524.** Update [ACNet](https://arxiv.org/abs/1904.03579), [iSQRT-COV-Net](https://arxiv.org/abs/1904.06836), [MobileNetV3](https://arxiv.org/abs/1905.02244), [OctConv](https://arxiv.org/abs/1904.05049), and [AAConv](https://arxiv.org/abs/1904.09925) papers
+- **190610.** Update [EfficientNet](https://arxiv.org/abs/1905.11946), and [GPipe](https://arxiv.org/abs/1811.06965) papers
 
 ### Stanford Online Products Retrieval Leaderboard
 - **181222.** Create the [Stanford Online Products Retrieval Leaderboard](https://kobiso.github.io/Computer-Vision-Leaderboard/sop)
